@@ -101,19 +101,6 @@ plt.imshow([[a]])
 plt.show()
 
 print(rgb_to_hex(a[0],a[1],a[2]))
-from ifttt_webhook import IftttWebhook
-
-# IFTTT Webhook key, available under "Documentation"
-# at  https://ifttt.com/maker_webhooks/.
-IFTTT_KEY = 'dizx31FyENIVyuu9P9zwVh'
-
-# Create an instance of the IftttWebhook class,
-# passing the IFTTT Webhook key as parameter.
-ifttt = IftttWebhook(IFTTT_KEY)
-
-# Trigger the IFTTT event defined by event_name with the content
-# defined by the value1, value2 and value3 parameters.
-ifttt.trigger('bulb', value1='cool')
 
 
 
