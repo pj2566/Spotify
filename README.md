@@ -27,5 +27,5 @@ Using authentication code flow
 2. Create An app from dashboard
 3. Enter all the details and make sure enter redirect url as http://example.com
 4. Clone the project
-5. get CLient id and Client secret and edit in .env file 
-6. Just import the neccesary libraries and run the code
+6. get CLient id and Client secret and edit in .env file 
+7. Just import the neccesary libraries and run the code - 1. python-dotenv 2. requests 3. json 4. spotipy 5. colorthief 5. matpolib 6. urlib.request 
