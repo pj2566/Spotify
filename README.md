@@ -25,7 +25,7 @@ Using authentication code flow
 ## Steps
 1. Create a Spotify Developer account  https://developer.spotify.com
 2. Create An app from dashboard
-3. Enter all the details and make sure enter redirect url as www.example.com
+3. Enter all the details and make sure enter redirect url as http://example.com
 4. Clone the project
 5. get CLient id and Client secret and edit in .env file 
 6. Just import the neccesary libraries and run the code
