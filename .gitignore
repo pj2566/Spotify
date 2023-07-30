@@ -1,0 +1,3 @@
+.env
+ git config --global user.email "pj2566@srmist.edu.in"
+  git config --global user.name "Prasukj@101914"
