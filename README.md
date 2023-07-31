@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prasuhk Jain</h1>
+<h1 align="center">Hi 👋, I'm Prashuk Jain</h1>
 <h3 align="center">A passionate Coder with intrest in fields like IOT, AI/ML,Blockchains</h3>
 
 - 🔭 I’m currently working on **Spotify Song Dominant Color Extractor**
